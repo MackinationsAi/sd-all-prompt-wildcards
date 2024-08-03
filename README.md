@@ -1,4 +1,4 @@
-# *sd-all-prompt-wildcard*
+# *sd-all-prompt-wildcards*
 This is an updated version of wildcards that allow the user to use wildcards in both the positive & **negative** prompts.
 
 ![Wildcard-Example](https://github.com/user-attachments/assets/1374c45a-d926-4a59-9415-3ecca6a58856)
