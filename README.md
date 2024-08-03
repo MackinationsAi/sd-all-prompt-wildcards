@@ -1,7 +1,7 @@
 # *sd-all-prompt-wildcard*
 This is an updated version of wildcards that allow the user to use wildcards in both the positive & **negative** prompts.
 
-![Wildcard-Example]()
+![Wildcard-Example](https://github.com/user-attachments/assets/1374c45a-d926-4a59-9415-3ecca6a58856)
 
 Allows you to use `__wildcard-name__` syntax in your pos &/or **neg** prompts to get a random line from a file named `wildcard-name.txt` in the wildcards directory &/or from here [sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-prompts).
 
